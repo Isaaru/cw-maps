@@ -1,0 +1,6 @@
+P -148.2900, -131.5300, 1.0010,  59, 0, 127,  2,  Tapley_(Bazaar)
+P -90.4674, 201.1382, 0.0030,  63, 63, 0,  2,  Aiden_Silverwing_(Quests)
+P -69.0000, 173.0000, 0.0030,  56, 0, 127,  2,  Deter_Pinklage_(Mentoring)
+P -99.8721, 143.2437, 0.0030,  63, 63, 0,  2,  Sage_Ballic_(Quests)
+P -193.0000, 126.0000, 0.0030,  0, 127, 127,  2,  Takumi_Yasuko_(Research)
+P -208.5087, 110.5973, 0.0030,  56, 0, 127,  2,  Gorlik_Wordweaver_(Leaderboard)
