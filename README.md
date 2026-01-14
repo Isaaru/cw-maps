@@ -3,6 +3,7 @@
 # Clumsy's World Maps
 
 The purpose of this project is to create a collection of zone maps with updates and changes specific to Clumsy's World. Additionally, this project will make use of a standardized design and layering format that creates consistency across all maps.
+
 ## Structure
 
 ### Base Layer (zonename.txt)
@@ -29,15 +30,15 @@ Layer 3 will consist of all seasonal/holiday NPCs and points of interest. Essent
 ### General Color Guidelines
 While no specific formatting is necessarily enforced, the following are recommended:
 
-Zone Boundaries/Walls: Black
-Zone Buildings/Structures: Black
-Openable Doors: Yellow
-Bridges/Hidden Pathways: Yellow
-Water: Blue
-Traps: Red
-Interactable Objects: Yellow/Red
-Blocked Doors: Red
-Lava: Red
+Zone Boundaries/Walls: Black  
+Zone Buildings/Structures: Black  
+Openable Doors: Yellow  
+Bridges/Hidden Pathways: Yellow  
+Water: Blue   
+Traps: Red  
+Interactable Objects: Yellow/Red  
+Blocked Doors: Red  
+Lava: Red  
 NPC Names: Colors that contrast the other map objects in their area so they are legible. (This may change in the future)
 
 ### General Sizing Guidelines
