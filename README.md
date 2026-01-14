@@ -64,4 +64,5 @@ When branch protection is active, contributors must follow this process:
 2. Commit changes to your branch/fork (edit the file, and commit the changes).
 3. Open a Pull Request (PR) to propose merging your changes into the base repository's main branch.
 4. The PR must be reviewed by someone with approval rights. Reviewers can request changes or approve the PR.
+
 5. Once approved the changes are merged into the base branch. 
