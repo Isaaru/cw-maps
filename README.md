@@ -39,7 +39,8 @@ Traps: Red
 Interactable Objects: Yellow/Red  
 Blocked Doors: Red  
 Lava: Red  
-NPC Names: Colors that contrast the other map objects in their area so they are legible. (This may change in the future)
+NPC Names: Colors that contrast the other map objects in their area so they are legible  
+NOTE: I would recommend we create a coloring scheme for NPC by purpose (raid,rare,quest,merchant,etc)
 
 ### General Sizing Guidelines
 Labels should usually be done in Medium Font so they are legible. The overall size used will depend on the map itself and the density of other map objects in the area.
@@ -54,6 +55,12 @@ In numerous zones lightblue/green borders/lines are used to denote underground, 
 In numerous zones contrasting lines are used to denote stairs and traditionally done a lighter blue/grey. Stairs should be a contrasting color so they are not confused as walls.
 
 ![Stairs](https://www.clumsysworld.com/Stairs.JPG)
+
+#### Bridges and Hidden Bridges
+It is recommended to have different colors for fake bridges, like in Plane of Mischief, with the real bridges having the normal color.
+
+![Bridges](https://www.clumsysworld.com/Bridges.JPG)
+
 ## How to Contribute
 The Maps hosted here are version controlled to maintain integrity and validate changes. If you would like to contribute please follow these instructions:
 
@@ -65,3 +72,4 @@ When branch protection is active, contributors must follow this process:
 3. Open a Pull Request (PR) to propose merging your changes into the base repository's main branch.
 4. The PR must be reviewed by someone with approval rights. Reviewers can request changes or approve the PR.
 5. Once approved the changes are merged into the base branch. 
+
