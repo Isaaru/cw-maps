@@ -7,7 +7,7 @@ The purpose of this project is to create a collection of zone maps with updates 
 ## Structure
 
 ### Base Layer (zonename.txt)
-The base layer of each map will consistent only of the map itself (zone boundaries, walls, buildings, water, zonelines, trees or other objects that are important to the zone design (growthplane), etc). Additionally, the base layer will consistent of an timestamp in the bottom right corner, placed outside the zone boundaries to track the last updated time.
+The base layer of each map will consist only of the map itself (zone boundaries, walls, buildings, water, zonelines, trees or other objects that are important to the zone design (growthplane), etc). Additionally, the base layer will consistent of an timestamp in the bottom right corner, placed outside the zone boundaries to track the last updated time.
 
 ![Base Layer](https://www.clumsysworld.com/BaseLayer.JPG)
 
@@ -39,6 +39,7 @@ Traps: Red
 Interactable Objects: Yellow/Red  
 Blocked Doors: Red  
 Lava: Red  
+One-Ways: Yellow. One ways are denoted by an arrow pointing at a line (which represents a door, picture, wall, etc)  
 NPC Names: Colors that contrast the other map objects in their area so they are legible  
 NOTE: I would recommend we create a coloring scheme for NPC by purpose (raid,rare,quest,merchant,etc)
 
@@ -56,6 +57,8 @@ In numerous zones contrasting lines are used to denote stairs and traditionally 
 
 ![Stairs](https://www.clumsysworld.com/Stairs.JPG)
 
+This picture also provides a representation of a one-way.
+
 #### Bridges and Hidden Bridges
 It is recommended to have different colors for fake bridges, like in Plane of Mischief, with the real bridges having the normal color.
 
@@ -72,4 +75,5 @@ When branch protection is active, contributors must follow this process:
 3. Open a Pull Request (PR) to propose merging your changes into the base repository's main branch.
 4. The PR must be reviewed by someone with approval rights. Reviewers can request changes or approve the PR.
 5. Once approved the changes are merged into the base branch. 
+
 
